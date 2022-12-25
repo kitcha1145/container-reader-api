@@ -1,0 +1,37 @@
+# Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
+*.jpg
+*.jpeg
+*.png
+*.JPG
+*.JPEG
+*.PNG
+*.mp4
+*.mov
+*.MOV
+*.avi
+
+
+# Neural Network weights -----------------------------------------------------------------------------------------------
+*.weights
+*.pt
+*.h5
+*.ckpt.*
+*.onnx
+*.t7
+*.mlmodel
+*.torchscript
+darknet53.conv.74
+yolov3-tiny.conv.15
+
+*.whl
+
+main.py
+/files/main.zip
+/files/main_240264.zip
+/files/main_update.zip
+/m/wpod-net.json
+/model_edit/t_mark_plate_m_01_final.json
+/model_edit/wpod-net.json
+/alpr_portable_t1-master.zip
+/request.log
+/ct.zip
